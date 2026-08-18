@@ -11,11 +11,13 @@
 ## Evaluacion Del CVPy
 
 - Formacion academica:
-  - En la postulacion declara culminacion del doctorado en Ciencias Biologicas en 2022 y especializacion en Metodologia de la Investigacion Cientifica en 2022. Declara adscripcion institucional en el IICS-UNA y selecciona doctorado como maximo titulo academico alcanzado.
+  - El CVPy y los anexos revisados confirman doctorado en Ciencias Biologicas, especializacion en Metodologia de la Investigacion Cientifica, maestria en Ciencias Biomedicas y adscripcion institucional en el IICS-UNA.
 - Produccion cientifica:
-  - Segun lo declarado en SPI, acredita publicaciones indexadas en WoS/Scopus durante el periodo evaluado, incluyendo al menos una como autora corresponsal en 2024 y otra en 2025, ademas de otras publicaciones como coautora en revistas indexadas y en SciELO/Latindex.
+  - El listado de publicaciones del periodo permite verificar articulos indexados en Scopus, SciELO, MEDLINE, Web of Science, LILACS, DOAJ y otros circuitos relevantes.
+  - Se identifica al menos un articulo 2025 donde figura como `autora correspondiente`, ademas de otras publicaciones como coautora en revistas indexadas nacionales e internacionales.
 - Otros:
-  - Declara participacion en proyectos financiados, incluyendo proyectos como principal y al menos uno con financiamiento CONACYT. Declara tutoria de grado y doctorado, revision de articulos cientificos, evaluacion de eventos y convocatorias, y funciones de coordinacion academica e institucional en IICS-UNA.
+  - Los anexos confirman participacion en proyectos financiados, incluyendo proyectos con fondos CONACYT, Rectorado y lineas institucionales.
+  - Tambien confirman tutoria de grado y doctorado, revision de articulos cientificos, evaluacion de eventos y convocatorias, pertenencia a redes y funciones de coordinacion academica e institucional en IICS-UNA.
 
 ## Resultado
 
@@ -32,5 +34,6 @@
 
 ## Consideraciones Para Comite
 
-- Este borrador se apoya en lo explicitamente declarado en la exportacion SPI disponible en el repositorio local.
-- La carpeta local no contiene los anexos respaldatorios individuales listados en SPI; si el acceso en plataforma lo permite, conviene corroborar directamente esos soportes antes de cerrar el dictamen definitivo.
+- Este borrador ya no se apoya solo en la exportacion SPI, sino tambien en el ZIP completo descomprimido localmente.
+- La evidencia observada al 18 de agosto de 2026 es suficiente para sostener una recomendacion favorable de permanencia en Nivel I.
+- En la version final conviene jerarquizar como ejes del dictamen: doctorado concluido, publicaciones indexadas con autoria corresponsal, proyectos competitivos, tutorias y evaluacion cientifica.
