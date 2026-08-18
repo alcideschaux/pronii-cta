@@ -35,6 +35,11 @@ Para empezar a trabajar, abrir en este orden:
   - ultimas hojas de resultado historico por codigo.
 - `04-evaluacion/`
   - workspace operativo para seguimiento, notas, dictamenes y entregables.
+- `05-anexos-spi/`
+  - zona local para ZIPs y anexos completos descargados desde SPI.
+  - esta carpeta esta ignorada por Git para evitar publicar respaldos sensibles o pesados.
+- `tools/`
+  - scripts locales para descompresion, inventario y extraccion de texto.
 
 ## Flujo de trabajo sugerido
 
@@ -46,6 +51,8 @@ Para empezar a trabajar, abrir en este orden:
 6. Redactar el borrador en `04-evaluacion/03-dictamenes-borrador/` si ya hay criterio suficiente.
 7. Registrar conflictos o inhibiciones en `04-evaluacion/04-conflictos-de-interes/`.
 8. Consolidar resultados finales en `04-evaluacion/05-entregables/`.
+9. Si hace falta revisar respaldos completos del SPI, usar `05-anexos-spi/` y resumir los hallazgos en la nota del caso.
+10. Si hace falta automatizar una tarea repetitiva, usar o ampliar los scripts en `tools/`.
 
 ## Estado del workspace
 
@@ -60,6 +67,7 @@ Al 18 de agosto de 2026, el workspace de evaluacion ya esta preparado para inici
 
 - No editar los archivos fuente en `01-documentacion/`, `02-postulaciones-completas/` o `03-resultados-previos/`.
 - Registrar trabajo nuevo solo dentro de `04-evaluacion/`.
+- Usar `05-anexos-spi/` para evidencia sensible o pesada descargada desde SPI; no versionarla.
 - Mantener nombres de archivos y carpetas en `kebab-case`.
 - Usar codigos de postulacion en minusculas.
 
