@@ -1,6 +1,6 @@
-# Borrador De Dictamen
+# Borrador de dictamen
 
-## Datos Generales
+## Datos generales
 
 - Nombres y apellidos: Chyntia Carolina Diaz Acosta
 - Codigo de postulacion: `epdu26-3`
@@ -8,7 +8,7 @@
 - Tipo de evaluacion: permanencia
 - Periodo de evaluacion: segun regla aplicable al antecedente vigente y hasta el cierre de la convocatoria
 
-## Evaluacion Del CVPy
+## Evaluacion del CVPy
 
 - Formacion academica:
   - Se observan respaldos de grado, maestria y doctorado, asi como reconocimiento formal del titulo doctoral por CONES.
@@ -36,7 +36,7 @@
   - la indexacion exacta de cada producto principal,
   - y el rol formal de la postulante en los proyectos de mayor peso.
 
-## Consideraciones Para Comite
+## Consideraciones para comite
 
 - Este borrador se apoya en la exportacion SPI local, en el ZIP completo del caso y en OCR parcial del dictamen previo 2021.
 - La evidencia observada al 18 de agosto de 2026 es consistente con una recomendacion favorable de permanencia en Nivel II.

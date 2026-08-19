@@ -1,6 +1,6 @@
-# Borrador De Dictamen
+# Borrador de dictamen
 
-## Datos Generales
+## Datos generales
 
 - Nombres y apellidos: Iara Magaly Martinez Pereira
 - Codigo de postulacion: `epuu26-2`
@@ -8,7 +8,7 @@
 - Tipo de evaluacion: permanencia
 - Periodo de evaluacion: segun regla aplicable a la resolucion previa `217/2023` y hasta el cierre de la convocatoria
 
-## Evaluacion Del CVPy
+## Evaluacion del CVPy
 
 - Formacion academica:
   - El CVPy confirma `Doctorado en Ciencias Biomédicas` concluido en `2018`, con trayectoria plenamente alineada a virologia, bioquimica molecular y epidemiologia genomica.
@@ -30,7 +30,7 @@
 - Mantener la trayectoria de liderazgo autoral en publicaciones indexadas y consolidar esa visibilidad en revistas de mayor impacto.
 - Continuar articulando los proyectos, pipelines y tutorias activas en productos publicables liderados desde el grupo.
 
-## Consideraciones Para Comite
+## Consideraciones para comite
 
 - La evidencia disponible al `19 de agosto de 2026` es favorable a la permanencia en `Nivel I`.
 - Frente al antecedente `2019`, el caso muestra una mejora clara en liderazgo de proyectos, redes de colaboracion y autoria visible en publicaciones recientes.

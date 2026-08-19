@@ -1,6 +1,6 @@
-# Borrador De Dictamen
+# Borrador de dictamen
 
-## Datos Generales
+## Datos generales
 
 - Nombres y apellidos: Fatima Rodriguez Acosta
 - Codigo de postulacion: `epuu26-8`
@@ -8,7 +8,7 @@
 - Tipo de evaluacion: permanencia
 - Periodo de evaluacion: 2022-07-09 hasta el cierre de la convocatoria
 
-## Evaluacion Del CVPy
+## Evaluacion del CVPy
 
 - Formacion academica:
   - El CVPy y los anexos revisados confirman doctorado en Ciencias Biologicas, especializacion en Metodologia de la Investigacion Cientifica, maestria en Ciencias Biomedicas y adscripcion institucional en el IICS-UNA.
@@ -32,7 +32,7 @@
 - Consolidar la formacion de recursos humanos de posgrado con tesis concluidas y publicaciones derivadas.
 - Mantener la captacion de financiamiento competitivo y la consolidacion de una linea propia de investigacion.
 
-## Consideraciones Para Comite
+## Consideraciones para comite
 
 - Este borrador ya no se apoya solo en la exportacion SPI, sino tambien en el ZIP completo descomprimido localmente.
 - La evidencia observada al 18 de agosto de 2026 es suficiente para sostener una recomendacion favorable de permanencia en Nivel I.

@@ -1,4 +1,4 @@
-# Nota De Evaluacion
+# Nota de evaluacion
 
 ## Identificacion
 
@@ -15,7 +15,7 @@
 - Otros anexos o soportes consultados:
   - [guia-bases-y-condiciones-permanencia-2026.pdf](../../01-documentacion/02-guias-operativas/guia-bases-y-condiciones-permanencia-2026.pdf)
 
-## Alcance De La Verificacion
+## Alcance de la verificacion
 
 - Esta copia local permite revisar el formulario exportado desde SPI, la ultima hoja de resultado previo y, desde el 18 de agosto de 2026, el ZIP completo descargado desde SPI y descomprimido localmente en `05-anexos-spi/descomprimidos/epuu26-8/`.
 - El paquete descomprimido contiene una masa documental amplia y consistente, incluyendo:
@@ -33,7 +33,7 @@
 - Cambio de area previa: no
 - Estado SPI: finalizado
 
-## Datos Generales Relevantes
+## Datos generales relevantes
 
 - Resolucion previa: `90/2023`
 - Area declarada SISNI: Ciencias Medicas y de la Salud
@@ -43,7 +43,7 @@
 - Carga horaria declarada: 40 horas semanales
 - Periodo aplicable segun la guia para su resolucion previa: desde `2022-07-09` hasta el cierre de la convocatoria
 
-## Verificacion De Criterios
+## Verificacion de criterios
 
 - Formacion de posgrado:
   - El CVPy exportado del `23-07-2026` confirma:
@@ -116,7 +116,7 @@
     - `OWSD Paraguay`,
     - y `Beca_postdoctoral_fundacion_carolina`.
 
-## Comparacion Con Resultado Previo
+## Comparacion con resultado previo
 
 - Nivel/categoria previa:
   - El resultado previo concluye que permanecio en el Nivel I.

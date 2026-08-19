@@ -1,4 +1,4 @@
-# Indice De Postulaciones
+# Indice de postulaciones
 
 | codigo | nivel | postulante | resolucion previa | alerta | expediente | previo |
 |---|---|---|---|---|---|---|

@@ -1,6 +1,6 @@
-# Borrador De Dictamen
+# Borrador de dictamen
 
-## Datos Generales
+## Datos generales
 
 - Nombres y apellidos: Osmar Antonio Centurion Alcaraz
 - Codigo de postulacion: `eptu26-3`
@@ -8,7 +8,7 @@
 - Tipo de evaluacion: permanencia
 - Periodo de evaluacion: 2021-2026, conforme al tramo aplicable a la resolucion previa `492/2021`
 
-## Evaluacion Del CVPy
+## Evaluacion del CVPy
 
 - Formacion academica:
   - El CVPy confirma doctorado en Ciencias Medicas por `Nagasaki University` y una trayectoria academica plenamente consolidada en cardiologia clinica, electrofisiologia y medicina interna.
@@ -30,7 +30,7 @@
 - Mantener la produccion indexada como autor principal o correspondiente.
 - Continuar agrupando y presentando las lineas de investigacion en bloques tematicos mas integradores.
 
-## Consideraciones Para Comite
+## Consideraciones para comite
 
 - La evidencia disponible al `18 de agosto de 2026` es fuertemente favorable a la permanencia en `Nivel III`.
 - La recomendacion formulada en `2021` sobre incrementar la formacion de recursos humanos en maestria y doctorado aparece claramente satisfecha.

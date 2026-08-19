@@ -1,6 +1,6 @@
-# Borrador De Dictamen
+# Borrador de dictamen
 
-## Datos Generales
+## Datos generales
 
 - Nombres y apellidos: Pedro Esteban Galvan Sosa
 - Codigo de postulacion: `epuu26-3`
@@ -8,7 +8,7 @@
 - Tipo de evaluacion: permanencia
 - Periodo de evaluacion: segun regla aplicable a la resolucion previa `217/2023` y hasta el cierre de la convocatoria
 
-## Evaluacion Del CVPy
+## Evaluacion del CVPy
 
 - Formacion academica:
   - En la exportacion disponible figura un diploma identificado como doctorado en Investigaciones Biomedicas y se observa adscripcion institucional declarada en SPI.
@@ -37,7 +37,7 @@
   - la indexacion exacta de las publicaciones nucleares,
   - y la pertinencia del cambio o permanencia de area, dejandola expresamente fundada en el dictamen.
 
-## Consideraciones Para Comite
+## Consideraciones para comite
 
 - Este borrador se apoya en la exportacion SPI local y en los nombres de anexos enlazados, no en la lectura completa de cada respaldo individual.
 - La hoja `EPUU22-47` y la nota de reconsideracion del `10 de marzo de 2023` fueron revisadas por OCR y fortalecen la lectura favorable del caso.

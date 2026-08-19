@@ -1,4 +1,4 @@
-# Nota De Evaluacion
+# Nota de evaluacion
 
 ## Identificacion
 
@@ -21,7 +21,7 @@
 - Cambio de area previa: si
 - Estado SPI: Finalizado
 
-## Alcance De La Verificacion
+## Alcance de la verificacion
 
 - La presente nota se basa en la exportacion PDF disponible en el repositorio y en los nombres de anexos enlazados desde SPI.
 - Ademas, desde el 18 de agosto de 2026 ya se dispone localmente del ZIP completo del SPI descomprimido para este caso en `05-anexos-spi/descomprimidos/epuu26-3/`.

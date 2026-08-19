@@ -1,6 +1,6 @@
-# Borrador De Dictamen
+# Borrador de dictamen
 
-## Datos Generales
+## Datos generales
 
 - Nombres y apellidos:
 - Codigo de postulacion:
@@ -8,7 +8,7 @@
 - Tipo de evaluacion: permanencia
 - Periodo de evaluacion:
 
-## Evaluacion Del CVPy
+## Evaluacion del CVPy
 
 - Formacion academica:
 - Produccion cientifica:
@@ -23,6 +23,6 @@
 
 - 
 
-## Consideraciones Para Comite
+## Consideraciones para comite
 
 - 

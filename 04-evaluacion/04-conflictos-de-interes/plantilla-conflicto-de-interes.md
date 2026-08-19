@@ -1,4 +1,4 @@
-# Registro De Conflicto De Interes
+# Registro de conflicto de interes
 
 - Fecha:
 - Revisor:

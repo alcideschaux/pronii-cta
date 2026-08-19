@@ -1,6 +1,6 @@
-# Borrador De Dictamen
+# Borrador de dictamen
 
-## Datos Generales
+## Datos generales
 
 - Nombres y apellidos: Maria Luisa Kennedy Rolon
 - Codigo de postulacion: `eptu26-1`
@@ -8,7 +8,7 @@
 - Tipo de evaluacion: permanencia
 - Periodo de evaluacion: segun regla aplicable a la resolucion previa `492/2021` y hasta el cierre de la convocatoria
 
-## Evaluacion Del CVPy
+## Evaluacion del CVPy
 
 - Formacion academica:
   - El CVPy confirma doctorado en productos naturales orgánicos, con una trayectoria formativa plenamente coherente con farmacognosia, química de plantas y farmacología experimental.
@@ -30,7 +30,7 @@
 - Sostener la produccion indexada con liderazgo autoral visible y mantener la proyeccion editorial y en redes.
 - Reforzar explicitamente la creacion de capacidades institucionales orientadas a la investigacion dentro de `FCQ-UNA`.
 
-## Consideraciones Para Comite
+## Consideraciones para comite
 
 - La evidencia disponible al `19 de agosto de 2026` es favorable a la permanencia en `Nivel III`.
 - El caso destaca especialmente por la continuidad de lineas, la formacion de recursos humanos y la trayectoria senior en farmacognosia y farmacologia de productos naturales.

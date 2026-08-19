@@ -1,4 +1,4 @@
-# Nota De Evaluacion
+# Nota de evaluacion
 
 ## Identificacion
 
@@ -21,7 +21,7 @@
 - Cambio de area previa: si
 - Estado SPI: Finalizado
 
-## Alcance De La Verificacion
+## Alcance de la verificacion
 
 - La presente nota se apoya en el expediente principal, los antecedentes `EIDU20-6` y `EPDU21-5`, y la exportacion descomprimida en `05-anexos-spi/descomprimidos/eptu26-1/`.
 - Se revisaron especificamente:

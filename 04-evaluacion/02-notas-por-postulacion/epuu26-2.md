@@ -1,4 +1,4 @@
-# Nota De Evaluacion
+# Nota de evaluacion
 
 ## Identificacion
 
@@ -21,7 +21,7 @@
 - Cambio de area previa: no
 - Estado SPI: Finalizado
 
-## Alcance De La Verificacion
+## Alcance de la verificacion
 
 - La presente nota se apoya en el expediente principal, el antecedente `EPUD19-139`, la evaluacion intermedia `EPUU22-78` incluida en SPI y la exportacion descomprimida en `05-anexos-spi/descomprimidos/epuu26-2/`.
 - Se revisaron especificamente:

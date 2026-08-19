@@ -1,4 +1,4 @@
-# PRONII 2026 - Repositorio de evaluación CTA
+# PRONII 2026 - repositorio de evaluación CTA
 
 Repositorio documental y operativo para la evaluacion de postulaciones PRONII 2026 asignadas al area de Ciencias Medicas y de la Salud.
 
