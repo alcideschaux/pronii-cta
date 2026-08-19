@@ -1,4 +1,4 @@
-# PRONII 2026 - Repositorio De Evaluacion CTA
+# PRONII 2026 - Repositorio de evaluación CTA
 
 Repositorio documental y operativo para la evaluacion de postulaciones PRONII 2026 asignadas al area de Ciencias Medicas y de la Salud.
 
@@ -16,7 +16,7 @@ Este repo concentra en un solo lugar:
 
 No es un repositorio de software. Es una carpeta de trabajo tecnico-documental para sostener un proceso de evaluacion riguroso, reproducible y presentable ante comite.
 
-## Estado Del Repositorio
+## Estado del repositorio
 
 Estado auditado al `19 de agosto de 2026`:
 
@@ -27,7 +27,7 @@ Estado auditado al `19 de agosto de 2026`:
 - campo de revisor normalizado como `Alcides Chaux` en las notas de evaluacion,
 - repositorio limpio y sincronizado a nivel git tras la ultima auditoria.
 
-## Navegacion Recomendada
+## Navegación recomendada
 
 Para orientarse rapidamente en el repo, abrir en este orden:
 
@@ -44,7 +44,7 @@ Si el objetivo es revisar una postulacion puntual, el flujo sugerido es:
 4. leer la nota analitica en `04-evaluacion/02-notas-por-postulacion/`,
 5. y luego revisar el borrador de dictamen en `04-evaluacion/03-dictamenes-borrador/`.
 
-## Estructura Del Repositorio
+## Estructura del repositorio
 
 - `01-documentacion/`
   Contiene el marco de referencia del proceso.
@@ -70,7 +70,7 @@ Si el objetivo es revisar una postulacion puntual, el flujo sugerido es:
 - `tools/`
   Contiene utilidades para descompresion, inventario y extraccion de texto desde PDFs.
 
-## Workspace De Evaluacion
+## Workspace de evaluación
 
 El directorio [04-evaluacion](/Users/alcideschaux/Library/CloudStorage/GoogleDrive-alcides.chaux@chauxlab.com/Mi%20unidad/Research/CONACYT/PRONII/2026%20-%20CTA/postulaciones/04-evaluacion) es la pieza central del repo.
 
@@ -93,7 +93,7 @@ Sus subcomponentes son:
 - [05-entregables](/Users/alcideschaux/Library/CloudStorage/GoogleDrive-alcides.chaux@chauxlab.com/Mi%20unidad/Research/CONACYT/PRONII/2026%20-%20CTA/postulaciones/04-evaluacion/05-entregables)
   Carpeta reservada para consolidaciones finales o material listo para elevar.
 
-## Enlaces Directos A Los Dictamenes
+## Enlaces directos a los dictámenes
 
 Los borradores de dictamen de todas las postulaciones evaluadas se encuentran en:
 
@@ -107,7 +107,7 @@ El consolidado maestro de estado y enlaces cruzados se encuentra en:
 
 - [04-evaluacion/01-seguimiento/tracker-evaluacion.tsv](/Users/alcideschaux/Library/CloudStorage/GoogleDrive-alcides.chaux@chauxlab.com/Mi%20unidad/Research/CONACYT/PRONII/2026%20-%20CTA/postulaciones/04-evaluacion/01-seguimiento/tracker-evaluacion.tsv)
 
-## Cobertura Del Lote
+## Cobertura del lote
 
 El universo actualmente cargado y auditado incluye:
 
@@ -124,7 +124,7 @@ La comparacion entre:
 
 confirma que no hay casos faltantes fuera del lote ya incorporado al flujo.
 
-## Alertas Relevantes Para CTA O CCH
+## Alertas relevantes para CTA o CCH
 
 Las principales alertas sustantivas que conviene tener visibles al discutir el lote son:
 
@@ -148,14 +148,14 @@ Las principales alertas sustantivas que conviene tener visibles al discutir el l
 
 Estas alertas ya estan reflejadas en el `tracker`, por lo que el repo permite identificar rapidamente cuales casos requieren una discusion colegiada mas fina.
 
-## Criterio De Uso Del Material
+## Criterio de uso del material
 
 - `01-documentacion/`, `02-postulaciones-completas/` y `03-resultados-previos/` deben tratarse como fuentes de referencia y no como espacio de redaccion.
 - El trabajo nuevo debe registrarse en `04-evaluacion/`.
 - `05-anexos-spi/` debe usarse solo como soporte de verificacion documental y no como lugar de redaccion final.
 - Los borradores de dictamen son material de trabajo tecnico y deben ser considerados previos a una eventual consolidacion formal en proforma institucional o SPI.
 
-## Trazabilidad Del Trabajo
+## Trazabilidad del trabajo
 
 El esquema actual permite reconstruir cada recomendacion siguiendo esta secuencia:
 
@@ -168,13 +168,13 @@ El esquema actual permite reconstruir cada recomendacion siguiendo esta secuenci
 
 Esa trazabilidad fue preparada para que otro miembro de la `CTA` o de la `CCH` pueda revisar el razonamiento sin depender de memoria oral o de archivos dispersos.
 
-## Responsable De Revision Tecnica
+## Responsable de revisión técnica
 
 Las notas de evaluacion actualmente trabajadas en este repositorio consignan como revisor a:
 
 - `Alcides Chaux`
 
-## Estado Git
+## Estado git
 
 Al cierre de esta version del `README`, el repositorio se encuentra:
 
