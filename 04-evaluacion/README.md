@@ -1,69 +1,74 @@
-# Workspace De Evaluacion
+# Workspace de evaluacion
 
-Este directorio separa el trabajo activo de la documentacion fuente.
+Este directorio concentra el trabajo tecnico de revision de las postulaciones asignadas a la `CTA` de Ciencias Medicas y de la Salud.
 
-## Listo Para Iniciar
+Al `19 de agosto de 2026`, el lote de trabajo se encuentra armado, evaluado y documentado, con trazabilidad por caso entre expediente, antecedente previo, nota analitica, borrador de dictamen y `tracker`.
 
-Abrir en este orden:
+## Estado del workspace
 
-1. `01-seguimiento/panel-de-arranque.md`
+- `29` postulaciones cargadas y seguidas en `01-seguimiento/tracker-evaluacion.tsv`.
+- `29` notas por postulacion disponibles en `02-notas-por-postulacion/`.
+- `29` borradores de dictamen disponibles en `03-dictamenes-borrador/`.
+- estructura lista para consulta por otros miembros de la `CTA` o de la `CCH`.
+- revisor consignado en las notas: `Alcides Chaux`.
+- una observacion administrativa visible en `epuu26-8`: declaracion personal de conflicto de interes pendiente de formalizacion en tracker.
+
+## Orden recomendado de lectura
+
+Para revisar el conjunto del trabajo:
+
+1. `01-seguimiento/tracker-evaluacion.tsv`
 2. `01-seguimiento/indice-postulaciones.md`
-3. `01-seguimiento/tracker-evaluacion.tsv`
-4. La nota y el borrador del codigo que toque revisar
+3. `01-seguimiento/panel-de-arranque.md`
+4. `05-entregables/README.md`
 
-Preparacion ya realizada en este workspace:
+Para revisar un caso individual:
 
-- El tracker incluye las 29 postulaciones asignadas a la CTA.
-- Cada fila del tracker apunta a un archivo de notas y a un borrador de dictamen por codigo.
-- Se genero una base de trabajo para todas las postulaciones en:
-  - `02-notas-por-postulacion/`
-  - `03-dictamenes-borrador/`
-- `05-entregables/` quedo documentado para la consolidacion final.
-
-## Orden sugerido de uso
-
-1. Revisar `../01-documentacion/02-guias-operativas/guia-bases-y-condiciones-permanencia-2026.pdf`.
-2. Revisar `../01-documentacion/02-guias-operativas/instructivo-spi-evaluadores-convocatoria-1-2026.pdf`.
-3. Abrir `01-seguimiento/indice-postulaciones.md` o `01-seguimiento/tracker-evaluacion.tsv`.
-4. Elegir un codigo.
-5. Leer el expediente completo en `../02-postulaciones-completas/`.
-6. Contrastar con el resultado previo en `../03-resultados-previos/`.
-7. Registrar hallazgos en `02-notas-por-postulacion/` usando `plantilla-nota-por-postulacion.md`.
-8. Si corresponde, preparar borrador en `03-dictamenes-borrador/` usando `plantilla-dictamen.md`.
-9. Si existe inhibicion o duda de imparcialidad, registrar primero en `04-conflictos-de-interes/` usando `plantilla-conflicto-de-interes.md`.
+1. ubicar el codigo en `01-seguimiento/tracker-evaluacion.tsv`,
+2. abrir el expediente en `../02-postulaciones-completas/`,
+3. contrastar el antecedente en `../03-resultados-previos/`,
+4. leer la nota en `02-notas-por-postulacion/`,
+5. revisar el borrador en `03-dictamenes-borrador/`.
 
 ## Contenido
 
 - `01-seguimiento/`
-  - `indice-postulaciones.md`: tabla unica con enlaces a expediente y resultado previo.
-  - `tracker-evaluacion.tsv`: seguimiento editable por fila.
-  - `panel-de-arranque.md`: cola sugerida de inicio, checklist y prioridades.
+  Contiene el `tracker`, el indice consolidado de postulaciones y el panel de situacion del lote.
+
 - `02-notas-por-postulacion/`
-  - `plantilla-nota-por-postulacion.md`: plantilla reusable para cada caso.
+  Contiene la fundamentacion analitica extensa de cada recomendacion.
+  Incluye `plantilla-nota-por-postulacion.md` como referencia de estructura.
+
 - `03-dictamenes-borrador/`
-  - `plantilla-dictamen.md`: esqueleto breve para redactar antes de pasar a la proforma Word o SPI.
+  Contiene la formulacion breve y presentable de cada recomendacion.
+  Incluye `plantilla-dictamen.md` para reutilizacion futura.
+
 - `04-conflictos-de-interes/`
-  - `plantilla-conflicto-de-interes.md`: registro rapido de inhibicion o potencial conflicto.
-  - `registro-conflictos.tsv`: tabla consolidada para seguimiento rapido de declaraciones e inhibiciones.
+  Contiene plantilla y registro para declaraciones, inhibiciones o verificaciones de imparcialidad.
+
 - `05-entregables/`
-  - carpeta reservada para consolidaciones finales.
-  - `README.md`: que debe quedar ahi antes del cierre.
+  Reserva el espacio para consolidaciones finales, resguardando separado el material de trabajo del material listo para elevar.
 
-## Criterios operativos ya detectados
+## Cobertura del lote
 
-- Hay 29 postulaciones asignadas a esta CTA.
-- Distribucion por nivel:
-  - 26 de nivel 1 (`epuu26-*`)
-  - 1 de nivel 2 (`epdu26-3`)
-  - 2 de nivel 3 (`eptu26-*`)
-- Casos con cambio de area previa hacia Ciencias Medicas y de la Salud:
-  - `epuu26-3`
-  - `epuu26-38`
-  - `epdu26-3`
-  - `eptu26-3`
-  - `eptu26-1`
+- `26` postulaciones de `nivel-i` (`epuu26-*`).
+- `1` postulacion de `nivel-ii` (`epdu26-3`).
+- `2` postulaciones de `nivel-iii` (`eptu26-*`).
 
-## Regla de trabajo
+Casos que requieren lectura especialmente cuidadosa por cambio de area previo:
 
-- No editar los archivos fuente dentro de `01-documentacion/`, `02-postulaciones-completas/` o `03-resultados-previos/`.
-- Registrar trabajo nuevo solo dentro de `04-evaluacion/`.
+- `epuu26-3`
+- `epuu26-38`
+- `epdu26-3`
+- `eptu26-3`
+- `eptu26-1`
+
+Caso que requiere validacion institucional adicional:
+
+- `epuu26-49`
+
+## Regla de uso
+
+- No editar archivos fuente dentro de `../01-documentacion/`, `../02-postulaciones-completas/` o `../03-resultados-previos/`.
+- Registrar trabajo nuevo y consolidaciones solo dentro de `04-evaluacion/`.
+- Tratar `03-dictamenes-borrador/` como borrador tecnico hasta eventual aprobacion colegiada o migracion a formato institucional.

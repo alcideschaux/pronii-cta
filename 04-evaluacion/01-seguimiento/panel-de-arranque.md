@@ -1,39 +1,38 @@
-# Panel De Arranque
+# Panel de situacion
 
-## Estado Inicial
+## Estado general del lote
 
-- Total de postulaciones asignadas: 29
-- Con nota avanzada y borrador disponible: 1 (`epuu26-8`)
-- Pendientes de revision activa: 28
-- Casos con alerta de cambio de area previa: 5
+- Total de postulaciones asignadas: `29`
+- Notas analiticas disponibles: `29`
+- Borradores de dictamen disponibles: `29`
+- Casos con recomendacion tecnica ya formulada: `29`
+- Casos con revision colegiada especialmente conveniente: `6`
+- Declaraciones administrativas pendientes visibles: `1` (`epuu26-8`)
 
-## Cola Sugerida De Inicio
+## Casos a tener visibles en comite
 
-Priorizar primero los casos con alerta, porque pueden requerir criterio adicional de comite:
+Estos expedientes ya tienen recomendacion tecnica, pero conviene discutirlos con mayor cuidado por cambio de area previo o por verificacion institucional especifica:
 
-1. `epuu26-3`
-2. `epuu26-38`
-3. `epdu26-3`
-4. `eptu26-3`
-5. `eptu26-1`
+1. `epuu26-49` - validar vinculacion institucional vigente
+2. `epuu26-3` - revisar cambio de area
+3. `epuu26-38` - revisar cambio de area
+4. `epdu26-3` - revisar cambio de area y precision final de autoria/indexacion
+5. `eptu26-3` - revisar cambio de area
+6. `eptu26-1` - revisar cambio de area
 
-Luego continuar con el resto en el orden del `indice-postulaciones.md` o reasignar segun disponibilidad del equipo.
+## Checklist de control final por caso
 
-## Checklist Operativo Por Caso
+- Confirmar que la recomendacion del `tracker` coincide con la nota y con el borrador.
+- Verificar que el campo `alertas` refleje cualquier punto que deba elevarse a la `CTA` o a la `CCH`.
+- Verificar que la observacion breve del `tracker` permita entender el nucleo del caso sin reabrir todo el expediente.
+- Confirmar que no exista conflicto de interes no declarado.
+- Revisar si hace falta cierre formal de fecha o consolidacion en entregable final.
 
-- Confirmar si existe conflicto de interes personal antes de abrir el expediente.
-- Abrir el expediente completo en `02-postulaciones-completas/`.
-- Contrastar con el resultado previo en `03-resultados-previos/`.
-- Completar la nota en `02-notas-por-postulacion/<codigo>.md`.
-- Registrar el avance en `tracker-evaluacion.tsv`.
-- Si ya hay criterio suficiente, redactar `03-dictamenes-borrador/<codigo>.md`.
-- Si surge inhibicion o duda de imparcialidad, registrarla en `04-conflictos-de-interes/registro-conflictos.tsv`.
+## Criterio de cierre operativo
 
-## Criterios De Cierre Minimo
-
-Un caso puede considerarse listo para comite cuando tenga:
+Un caso puede considerarse listo para presentacion cuando tenga:
 
 - nota de evaluacion completa,
-- dictamen propuesto,
-- recomendacion clara sobre categoria o permanencia,
-- y observacion expresa si quedo algun respaldo pendiente de corroborar en SPI.
+- borrador de dictamen consistente,
+- recomendacion clara sobre permanencia o categoria,
+- y alerta expresa si queda algun punto para validacion colegiada o institucional.

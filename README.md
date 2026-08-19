@@ -25,16 +25,16 @@ Estado auditado al `19 de agosto de 2026`:
 - `tracker` validado y alineado,
 - notas de evaluacion y borradores de dictamen disponibles para todas las postulaciones cargadas,
 - campo de revisor normalizado como `Alcides Chaux` en las notas de evaluacion,
-- repositorio limpio y sincronizado a nivel git tras la ultima auditoria.
+- documentacion principal alineada para consulta interna y cierre git final.
 
 ## Navegación recomendada
 
 Para orientarse rapidamente en el repo, abrir en este orden:
 
-1. [04-evaluacion/README.md](/Users/alcideschaux/Library/CloudStorage/GoogleDrive-alcides.chaux@chauxlab.com/Mi%20unidad/Research/CONACYT/PRONII/2026%20-%20CTA/postulaciones/04-evaluacion/README.md)
-2. [tracker-evaluacion.tsv](/Users/alcideschaux/Library/CloudStorage/GoogleDrive-alcides.chaux@chauxlab.com/Mi%20unidad/Research/CONACYT/PRONII/2026%20-%20CTA/postulaciones/04-evaluacion/01-seguimiento/tracker-evaluacion.tsv)
-3. [indice-postulaciones.md](/Users/alcideschaux/Library/CloudStorage/GoogleDrive-alcides.chaux@chauxlab.com/Mi%20unidad/Research/CONACYT/PRONII/2026%20-%20CTA/postulaciones/04-evaluacion/01-seguimiento/indice-postulaciones.md)
-4. [05-entregables/README.md](/Users/alcideschaux/Library/CloudStorage/GoogleDrive-alcides.chaux@chauxlab.com/Mi%20unidad/Research/CONACYT/PRONII/2026%20-%20CTA/postulaciones/04-evaluacion/05-entregables/README.md)
+1. [04-evaluacion/README.md](04-evaluacion/README.md)
+2. [tracker-evaluacion.tsv](04-evaluacion/01-seguimiento/tracker-evaluacion.tsv)
+3. [indice-postulaciones.md](04-evaluacion/01-seguimiento/indice-postulaciones.md)
+4. [05-entregables/README.md](04-evaluacion/05-entregables/README.md)
 
 Si el objetivo es revisar una postulacion puntual, el flujo sugerido es:
 
@@ -72,40 +72,40 @@ Si el objetivo es revisar una postulacion puntual, el flujo sugerido es:
 
 ## Workspace de evaluación
 
-El directorio [04-evaluacion](/Users/alcideschaux/Library/CloudStorage/GoogleDrive-alcides.chaux@chauxlab.com/Mi%20unidad/Research/CONACYT/PRONII/2026%20-%20CTA/postulaciones/04-evaluacion) es la pieza central del repo.
+El directorio [04-evaluacion](04-evaluacion) es la pieza central del repo.
 
 Sus subcomponentes son:
 
-- [01-seguimiento](/Users/alcideschaux/Library/CloudStorage/GoogleDrive-alcides.chaux@chauxlab.com/Mi%20unidad/Research/CONACYT/PRONII/2026%20-%20CTA/postulaciones/04-evaluacion/01-seguimiento)
+- [01-seguimiento](04-evaluacion/01-seguimiento)
   Contiene el `tracker`, el indice de postulaciones y el panel de arranque.
 
-- [02-notas-por-postulacion](/Users/alcideschaux/Library/CloudStorage/GoogleDrive-alcides.chaux@chauxlab.com/Mi%20unidad/Research/CONACYT/PRONII/2026%20-%20CTA/postulaciones/04-evaluacion/02-notas-por-postulacion)
+- [02-notas-por-postulacion](04-evaluacion/02-notas-por-postulacion)
   Contiene las notas analiticas de evaluacion caso por caso.
   Estas notas son el soporte principal de trazabilidad tecnica del juicio emitido.
 
-- [03-dictamenes-borrador](/Users/alcideschaux/Library/CloudStorage/GoogleDrive-alcides.chaux@chauxlab.com/Mi%20unidad/Research/CONACYT/PRONII/2026%20-%20CTA/postulaciones/04-evaluacion/03-dictamenes-borrador)
+- [03-dictamenes-borrador](04-evaluacion/03-dictamenes-borrador)
   Contiene los borradores resumidos de dictamen por postulacion.
   Son la version breve y presentable de la recomendacion construida en la nota extensa.
 
-- [04-conflictos-de-interes](/Users/alcideschaux/Library/CloudStorage/GoogleDrive-alcides.chaux@chauxlab.com/Mi%20unidad/Research/CONACYT/PRONII/2026%20-%20CTA/postulaciones/04-evaluacion/04-conflictos-de-interes)
+- [04-conflictos-de-interes](04-evaluacion/04-conflictos-de-interes)
   Contiene plantillas y registro de conflictos o inhibiciones.
 
-- [05-entregables](/Users/alcideschaux/Library/CloudStorage/GoogleDrive-alcides.chaux@chauxlab.com/Mi%20unidad/Research/CONACYT/PRONII/2026%20-%20CTA/postulaciones/04-evaluacion/05-entregables)
+- [05-entregables](04-evaluacion/05-entregables)
   Carpeta reservada para consolidaciones finales o material listo para elevar.
 
 ## Enlaces directos a los dictámenes
 
 Los borradores de dictamen de todas las postulaciones evaluadas se encuentran en:
 
-- [04-evaluacion/03-dictamenes-borrador](/Users/alcideschaux/Library/CloudStorage/GoogleDrive-alcides.chaux@chauxlab.com/Mi%20unidad/Research/CONACYT/PRONII/2026%20-%20CTA/postulaciones/04-evaluacion/03-dictamenes-borrador)
+- [04-evaluacion/03-dictamenes-borrador](04-evaluacion/03-dictamenes-borrador)
 
 Las notas analiticas completas, que sustentan cada borrador, se encuentran en:
 
-- [04-evaluacion/02-notas-por-postulacion](/Users/alcideschaux/Library/CloudStorage/GoogleDrive-alcides.chaux@chauxlab.com/Mi%20unidad/Research/CONACYT/PRONII/2026%20-%20CTA/postulaciones/04-evaluacion/02-notas-por-postulacion)
+- [04-evaluacion/02-notas-por-postulacion](04-evaluacion/02-notas-por-postulacion)
 
 El consolidado maestro de estado y enlaces cruzados se encuentra en:
 
-- [04-evaluacion/01-seguimiento/tracker-evaluacion.tsv](/Users/alcideschaux/Library/CloudStorage/GoogleDrive-alcides.chaux@chauxlab.com/Mi%20unidad/Research/CONACYT/PRONII/2026%20-%20CTA/postulaciones/04-evaluacion/01-seguimiento/tracker-evaluacion.tsv)
+- [04-evaluacion/01-seguimiento/tracker-evaluacion.tsv](04-evaluacion/01-seguimiento/tracker-evaluacion.tsv)
 
 ## Cobertura del lote
 
@@ -179,5 +179,5 @@ Las notas de evaluacion actualmente trabajadas en este repositorio consignan com
 Al cierre de esta version del `README`, el repositorio se encuentra:
 
 - auditado estructuralmente,
-- documentado para navegacion externa,
-- y listo para ser compartido como repositorio de consulta interna de trabajo.
+- documentado para navegacion externa e interna,
+- y listo para cierre git y comparticion como repositorio de consulta interna de trabajo.
