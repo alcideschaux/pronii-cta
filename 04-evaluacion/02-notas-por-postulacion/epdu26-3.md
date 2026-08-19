@@ -6,7 +6,7 @@
 - Postulante: Chyntia Carolina Diaz Acosta
 - Nivel: nivel-2
 - Fecha de revision: 2026-08-18
-- Revisor:
+- Revisor: Alcides Chaux
 
 ## Archivos revisados
 

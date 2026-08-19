@@ -6,7 +6,7 @@
 - Postulante: Fatima Rodriguez Acosta
 - Nivel: nivel-1
 - Fecha de revision: 2026-08-15
-- Revisor:
+- Revisor: Alcides Chaux
 
 ## Archivos revisados
 

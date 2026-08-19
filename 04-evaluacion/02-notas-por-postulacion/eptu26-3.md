@@ -6,7 +6,7 @@
 - Postulante: Osmar Antonio Centurion Alcaraz
 - Nivel: nivel-3
 - Fecha de revision: 2026-08-18
-- Revisor:
+- Revisor: Alcides Chaux
 
 ## Archivos revisados
 

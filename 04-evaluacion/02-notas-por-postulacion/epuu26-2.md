@@ -6,7 +6,7 @@
 - Postulante: Iara Magaly Martinez Pereira
 - Nivel: nivel-1
 - Fecha de revision: 2026-08-19
-- Revisor:
+- Revisor: Alcides Chaux
 
 ## Archivos revisados
 
