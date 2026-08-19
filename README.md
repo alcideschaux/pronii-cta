@@ -1,83 +1,183 @@
-# PRONII 2026 CTA Postulaciones
+# PRONII 2026 - Repositorio De Evaluacion CTA
 
-Repositorio operativo para organizar y ejecutar la evaluacion de postulaciones PRONII 2026 asignadas a la CTA de Ciencias Medicas y de la Salud.
+Repositorio documental y operativo para la evaluacion de postulaciones PRONII 2026 asignadas al area de Ciencias Medicas y de la Salud.
 
-## Proposito
+Este repositorio esta preparado para ser compartido con miembros de la `CTA` y de la `CCH` como base de orientacion, consulta y trazabilidad del trabajo realizado.
 
-Este repositorio concentra en un solo lugar:
+## Alcance
 
-- la documentacion normativa y operativa de referencia,
+Este repo concentra en un solo lugar:
+
+- la documentacion normativa y operativa aplicable a la convocatoria,
 - los expedientes completos de las postulaciones asignadas,
-- los resultados previos historicos por postulante,
-- y el workspace de evaluacion con notas, borradores y entregables.
+- los resultados previos historicos de cada postulante,
+- el workspace de evaluacion con notas por caso y borradores de dictamen,
+- y una estructura de seguimiento que permite auditar el estado de cada expediente.
 
-No es un repositorio de software. Es una base documental y de trabajo para sostener un proceso de evaluacion ordenado, trazable y consistente.
+No es un repositorio de software. Es una carpeta de trabajo tecnico-documental para sostener un proceso de evaluacion riguroso, reproducible y presentable ante comite.
 
-## Inicio rapido
+## Estado Del Repositorio
 
-Para empezar a trabajar, abrir en este orden:
+Estado auditado al `19 de agosto de 2026`:
 
-1. `04-evaluacion/README.md`
-2. `04-evaluacion/01-seguimiento/panel-de-arranque.md`
-3. `04-evaluacion/01-seguimiento/indice-postulaciones.md`
-4. `04-evaluacion/01-seguimiento/tracker-evaluacion.tsv`
+- universo de trabajo consolidado: `29` postulaciones asignadas,
+- estructura documental completa y consistente entre expedientes, resultados previos, zips y anexos descomprimidos,
+- `tracker` validado y alineado,
+- notas de evaluacion y borradores de dictamen disponibles para todas las postulaciones cargadas,
+- campo de revisor normalizado como `Alcides Chaux` en las notas de evaluacion,
+- repositorio limpio y sincronizado a nivel git tras la ultima auditoria.
 
-## Estructura del repositorio
+## Navegacion Recomendada
+
+Para orientarse rapidamente en el repo, abrir en este orden:
+
+1. [04-evaluacion/README.md](/Users/alcideschaux/Library/CloudStorage/GoogleDrive-alcides.chaux@chauxlab.com/Mi%20unidad/Research/CONACYT/PRONII/2026%20-%20CTA/postulaciones/04-evaluacion/README.md)
+2. [tracker-evaluacion.tsv](/Users/alcideschaux/Library/CloudStorage/GoogleDrive-alcides.chaux@chauxlab.com/Mi%20unidad/Research/CONACYT/PRONII/2026%20-%20CTA/postulaciones/04-evaluacion/01-seguimiento/tracker-evaluacion.tsv)
+3. [indice-postulaciones.md](/Users/alcideschaux/Library/CloudStorage/GoogleDrive-alcides.chaux@chauxlab.com/Mi%20unidad/Research/CONACYT/PRONII/2026%20-%20CTA/postulaciones/04-evaluacion/01-seguimiento/indice-postulaciones.md)
+4. [05-entregables/README.md](/Users/alcideschaux/Library/CloudStorage/GoogleDrive-alcides.chaux@chauxlab.com/Mi%20unidad/Research/CONACYT/PRONII/2026%20-%20CTA/postulaciones/04-evaluacion/05-entregables/README.md)
+
+Si el objetivo es revisar una postulacion puntual, el flujo sugerido es:
+
+1. ubicar el codigo en el `tracker`,
+2. abrir el expediente fuente en `02-postulaciones-completas/`,
+3. contrastar el antecedente en `03-resultados-previos/`,
+4. leer la nota analitica en `04-evaluacion/02-notas-por-postulacion/`,
+5. y luego revisar el borrador de dictamen en `04-evaluacion/03-dictamenes-borrador/`.
+
+## Estructura Del Repositorio
 
 - `01-documentacion/`
-  - `01-marco-normativo/`: ley, decretos y resoluciones aplicables.
-  - `02-guias-operativas/`: bases, condiciones e instructivos de evaluacion.
-  - `03-planillas-y-formatos/`: planillas, nominas, proformas y anexos.
-  - `04-apoyo/`: materiales auxiliares.
+  Contiene el marco de referencia del proceso.
+  Incluye normativa, guias operativas, planillas y materiales auxiliares.
+
 - `02-postulaciones-completas/`
-  - expedientes completos por codigo de postulacion.
+  Contiene los expedientes principales de las postulaciones asignadas a esta CTA.
+  Cada archivo esta identificado por codigo de postulacion.
+
 - `03-resultados-previos/`
-  - ultimas hojas de resultado historico por codigo.
+  Reune los resultados historicos previos por postulante.
+  Sirve para comparar permanencia, ascenso, recomendaciones anteriores y continuidad de trayectoria.
+
 - `04-evaluacion/`
-  - workspace operativo para seguimiento, notas, dictamenes y entregables.
+  Es el workspace central del proceso evaluativo.
+  Ahi se encuentran el seguimiento operativo, las notas por caso, los borradores de dictamen, el registro de conflictos y la carpeta reservada para entregables finales.
+
 - `05-anexos-spi/`
-  - zona local para ZIPs y anexos completos descargados desde SPI.
-  - esta carpeta esta ignorada por Git para evitar publicar respaldos sensibles o pesados.
+  Reune respaldos completos descargados desde SPI.
+  Incluye los `.zip` originales y sus versiones descomprimidas para verificacion documental fina.
+  Es una zona de trabajo local con materiales pesados y/o sensibles.
+
 - `tools/`
-  - scripts locales para descompresion, inventario y extraccion de texto.
+  Contiene utilidades para descompresion, inventario y extraccion de texto desde PDFs.
 
-## Flujo de trabajo sugerido
+## Workspace De Evaluacion
 
-1. Revisar la normativa y las guias operativas en `01-documentacion/`.
-2. Identificar el caso a trabajar desde `04-evaluacion/01-seguimiento/`.
-3. Leer el expediente completo en `02-postulaciones-completas/`.
-4. Contrastar con el antecedente en `03-resultados-previos/`.
-5. Registrar hallazgos en `04-evaluacion/02-notas-por-postulacion/`.
-6. Redactar el borrador en `04-evaluacion/03-dictamenes-borrador/` si ya hay criterio suficiente.
-7. Registrar conflictos o inhibiciones en `04-evaluacion/04-conflictos-de-interes/`.
-8. Consolidar resultados finales en `04-evaluacion/05-entregables/`.
-9. Si hace falta revisar respaldos completos del SPI, usar `05-anexos-spi/` y resumir los hallazgos en la nota del caso.
-10. Si hace falta automatizar una tarea repetitiva, usar o ampliar los scripts en `tools/`.
+El directorio [04-evaluacion](/Users/alcideschaux/Library/CloudStorage/GoogleDrive-alcides.chaux@chauxlab.com/Mi%20unidad/Research/CONACYT/PRONII/2026%20-%20CTA/postulaciones/04-evaluacion) es la pieza central del repo.
 
-## Estado del workspace
+Sus subcomponentes son:
 
-Al 18 de agosto de 2026, el workspace de evaluacion ya esta preparado para iniciar:
+- [01-seguimiento](/Users/alcideschaux/Library/CloudStorage/GoogleDrive-alcides.chaux@chauxlab.com/Mi%20unidad/Research/CONACYT/PRONII/2026%20-%20CTA/postulaciones/04-evaluacion/01-seguimiento)
+  Contiene el `tracker`, el indice de postulaciones y el panel de arranque.
 
-- hay 29 postulaciones cargadas en el tracker,
-- cada codigo tiene su archivo de notas y su borrador de dictamen,
-- existe un panel de arranque con prioridades y checklist operativo,
-- y la carpeta de entregables ya quedo documentada.
+- [02-notas-por-postulacion](/Users/alcideschaux/Library/CloudStorage/GoogleDrive-alcides.chaux@chauxlab.com/Mi%20unidad/Research/CONACYT/PRONII/2026%20-%20CTA/postulaciones/04-evaluacion/02-notas-por-postulacion)
+  Contiene las notas analiticas de evaluacion caso por caso.
+  Estas notas son el soporte principal de trazabilidad tecnica del juicio emitido.
 
-## Reglas de trabajo
+- [03-dictamenes-borrador](/Users/alcideschaux/Library/CloudStorage/GoogleDrive-alcides.chaux@chauxlab.com/Mi%20unidad/Research/CONACYT/PRONII/2026%20-%20CTA/postulaciones/04-evaluacion/03-dictamenes-borrador)
+  Contiene los borradores resumidos de dictamen por postulacion.
+  Son la version breve y presentable de la recomendacion construida en la nota extensa.
 
-- No editar los archivos fuente en `01-documentacion/`, `02-postulaciones-completas/` o `03-resultados-previos/`.
-- Registrar trabajo nuevo solo dentro de `04-evaluacion/`.
-- Usar `05-anexos-spi/` para evidencia sensible o pesada descargada desde SPI; no versionarla.
-- Mantener nombres de archivos y carpetas en `kebab-case`.
-- Usar codigos de postulacion en minusculas.
+- [04-conflictos-de-interes](/Users/alcideschaux/Library/CloudStorage/GoogleDrive-alcides.chaux@chauxlab.com/Mi%20unidad/Research/CONACYT/PRONII/2026%20-%20CTA/postulaciones/04-evaluacion/04-conflictos-de-interes)
+  Contiene plantillas y registro de conflictos o inhibiciones.
 
-Ejemplo: `epuu26-8.pdf`
+- [05-entregables](/Users/alcideschaux/Library/CloudStorage/GoogleDrive-alcides.chaux@chauxlab.com/Mi%20unidad/Research/CONACYT/PRONII/2026%20-%20CTA/postulaciones/04-evaluacion/05-entregables)
+  Carpeta reservada para consolidaciones finales o material listo para elevar.
 
-## Nota sobre archivos no identicos
+## Enlaces Directos A Los Dictamenes
 
-Los siguientes pares se conservaron como versiones separadas porque no son binariamente identicos:
+Los borradores de dictamen de todas las postulaciones evaluadas se encuentran en:
 
-- `postulantes-ciencias-medicas-y-de-la-salud-version-docs.xlsx`
-- `postulantes-ciencias-medicas-y-de-la-salud-version-raiz.xlsx`
-- `proforma-dictamen-ciencias-medicas-version-docs.docx`
-- `proforma-dictamen-ciencias-medicas-version-raiz.docx`
+- [04-evaluacion/03-dictamenes-borrador](/Users/alcideschaux/Library/CloudStorage/GoogleDrive-alcides.chaux@chauxlab.com/Mi%20unidad/Research/CONACYT/PRONII/2026%20-%20CTA/postulaciones/04-evaluacion/03-dictamenes-borrador)
+
+Las notas analiticas completas, que sustentan cada borrador, se encuentran en:
+
+- [04-evaluacion/02-notas-por-postulacion](/Users/alcideschaux/Library/CloudStorage/GoogleDrive-alcides.chaux@chauxlab.com/Mi%20unidad/Research/CONACYT/PRONII/2026%20-%20CTA/postulaciones/04-evaluacion/02-notas-por-postulacion)
+
+El consolidado maestro de estado y enlaces cruzados se encuentra en:
+
+- [04-evaluacion/01-seguimiento/tracker-evaluacion.tsv](/Users/alcideschaux/Library/CloudStorage/GoogleDrive-alcides.chaux@chauxlab.com/Mi%20unidad/Research/CONACYT/PRONII/2026%20-%20CTA/postulaciones/04-evaluacion/01-seguimiento/tracker-evaluacion.tsv)
+
+## Cobertura Del Lote
+
+El universo actualmente cargado y auditado incluye:
+
+- `26` postulaciones `Nivel I` (`epuu26-*`),
+- `1` postulacion `Nivel II` (`epdu26-3`),
+- `2` postulaciones `Nivel III` (`eptu26-*`).
+
+La comparacion entre:
+
+- `02-postulaciones-completas/`,
+- `03-resultados-previos/`,
+- `05-anexos-spi/zips/`,
+- `05-anexos-spi/descomprimidos/`
+
+confirma que no hay casos faltantes fuera del lote ya incorporado al flujo.
+
+## Alertas Relevantes Para CTA O CCH
+
+Las principales alertas sustantivas que conviene tener visibles al discutir el lote son:
+
+- `epuu26-49`
+  Validar la vinculacion institucional vigente, dado el contexto de jubilacion con continuidad por proyectos y pedido formal de vinculacion asociada.
+
+- `epuu26-3`
+  Revisar el antecedente de cambio de area y fundar expresamente la continuidad dentro del area de ciencias medicas y de la salud.
+
+- `epuu26-38`
+  Revisar el antecedente de cambio de area y dejar bien explicitado el rol en proyectos.
+
+- `epdu26-3`
+  Revisar el antecedente de cambio de area y verificar con precision final autoria e indexacion de publicaciones nucleares.
+
+- `eptu26-3`
+  Revisar el antecedente de cambio de area, aunque el perfil tecnico y la recomendacion actual son favorables.
+
+- `eptu26-1`
+  Revisar el antecedente de cambio de area y sostener la recomendacion con especial enfasis en formacion de recursos humanos, produccion indexada y capacidades institucionales.
+
+Estas alertas ya estan reflejadas en el `tracker`, por lo que el repo permite identificar rapidamente cuales casos requieren una discusion colegiada mas fina.
+
+## Criterio De Uso Del Material
+
+- `01-documentacion/`, `02-postulaciones-completas/` y `03-resultados-previos/` deben tratarse como fuentes de referencia y no como espacio de redaccion.
+- El trabajo nuevo debe registrarse en `04-evaluacion/`.
+- `05-anexos-spi/` debe usarse solo como soporte de verificacion documental y no como lugar de redaccion final.
+- Los borradores de dictamen son material de trabajo tecnico y deben ser considerados previos a una eventual consolidacion formal en proforma institucional o SPI.
+
+## Trazabilidad Del Trabajo
+
+El esquema actual permite reconstruir cada recomendacion siguiendo esta secuencia:
+
+1. fuente normativa,
+2. expediente principal,
+3. antecedente historico,
+4. nota analitica,
+5. borrador de dictamen,
+6. y estado consolidado en tracker.
+
+Esa trazabilidad fue preparada para que otro miembro de la `CTA` o de la `CCH` pueda revisar el razonamiento sin depender de memoria oral o de archivos dispersos.
+
+## Responsable De Revision Tecnica
+
+Las notas de evaluacion actualmente trabajadas en este repositorio consignan como revisor a:
+
+- `Alcides Chaux`
+
+## Estado Git
+
+Al cierre de esta version del `README`, el repositorio se encuentra:
+
+- auditado estructuralmente,
+- documentado para navegacion externa,
+- y listo para ser compartido como repositorio de consulta interna de trabajo.
