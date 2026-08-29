@@ -131,3 +131,10 @@
 ## Notas libres
 
 - Caso favorable a la permanencia en `Nivel III`, con especial fortaleza en trayectoria, formacion de recursos humanos y continuidad de lineas, aunque conviene dejar una recomendacion explicita sobre capacidades institucionales.
+
+
+## Revision post-contraste CTA/CCH (`2026-08-29`)
+
+- Se corrige el sentido a **desciende a Nivel II** por el criterio excluyente de redes en Nivel III (CCH 21 ago 2026).
+- SPI del periodo sin anexo de red vigente; colaboraciones/editorial no se toman por si solas como cumplimiento sin definicion colegiada de «red».
+- Alineacion con el dictamen de Pablo Sotelo.

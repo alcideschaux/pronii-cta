@@ -11,27 +11,28 @@
 ## Evaluacion del CVPy
 
 - Formacion academica:
-  - El CVPy confirma `Doctorado en Ciencias Biomédicas` concluido en `2018`, con trayectoria plenamente alineada a virologia, bioquimica molecular y epidemiologia genomica.
+  - El CVPy confirma `Doctorado en Ciencias Biomedicas` concluido en `2018`, alineado a virologia, bioquimica molecular y epidemiologia genomica.
 - Produccion cientifica:
-  - La postulacion presenta una produccion 2022-2026 sostenida, con articulos en *Open Forum Infectious Diseases*, *Viruses*, *Brazilian Journal of Microbiology*, *IJID Regions*, *International Journal of Microbiology* y *Epidemiology and Health*.
-  - La evidencia muestra mejora en liderazgo autoral, con primera autoria compartida y un articulo `2026` como ultima autora y autora correspondiente.
+  - Produccion 2022-2026 sostenida en *Open Forum Infectious Diseases*, *Viruses*, *Brazilian Journal of Microbiology*, *IJID Regions*, *International Journal of Microbiology* y *Epidemiology and Health*, entre otras.
+  - Se observa mejora de liderazgo autoral (primera autoria compartida y articulo `2026` como ultima autora / correspondiente), con pluralidad de articulos en PubMed/WoS/Scopus.
 - Otros:
-  - El expediente acredita adscripcion activa en `IICS-UNA`, liderazgo de grupo de investigacion, coordinacion de proyectos y redes internacionales, docencia en doctorado y una actividad formativa fuerte en maestria, doctorado e iniciacion a la investigacion.
+  - Adscripcion activa en `IICS-UNA`, **liderazgo de grupo** de investigacion, coordinacion de proyectos, redes de colaboracion, docencia doctoral y tutorias de maestria/doctorado e iniciacion a la investigacion.
+  - Participacion en evaluaciones (mesas de tesis, revision por pares).
 
 ## Resultado
 
 - Dictamen:
-  - Permanece
+  - Asciende (reclasificacion sugerida en el marco de la evaluacion de permanencia)
 - Categoria o grupo:
-  - Nivel I
+  - Nivel II
 
 ## Recomendaciones
 
-- Mantener la trayectoria de liderazgo autoral en publicaciones indexadas y consolidar esa visibilidad en revistas de mayor impacto.
-- Continuar articulando los proyectos, pipelines y tutorias activas en productos publicables liderados desde el grupo.
+- Consolidar autorias principales/correspondientes en revistas de mayor impacto.
+- Continuar el mentorazgo doctoral hasta defensas y sostener la produccion conjunta con aprendices del grupo.
 
 ## Consideraciones para comite
 
-- La evidencia disponible al `19 de agosto de 2026` es favorable a la permanencia en `Nivel I`.
-- Frente al antecedente `2019`, el caso muestra una mejora clara en liderazgo de proyectos, redes de colaboracion y autoria visible en publicaciones recientes.
-- El expediente refleja un perfil particularmente valioso para capacidades institucionales en virologia molecular, secuenciacion y vigilancia genomica.
+- Ajuste del `29 de agosto de 2026`: la CTA puede sugerir reclasificacion; el expediente cumple el checklist de Nivel II (doctorado, produccion, conduccion de equipos / formacion de RRHH, evaluaciones), alineado con el dictamen de Clarisse.
+- El dictamen previo de solo «permanece en Nivel I» subaplicaba el umbral II pese a evidenciar liderazgo de grupo y mejora de autoria.
+- Se sugiere elevar **ascenso a Nivel II** en el acta colegiada.

@@ -11,27 +11,30 @@
 ## Evaluacion del CVPy
 
 - Formacion academica:
-  - El CVPy confirma doctorado en productos naturales orgánicos, con una trayectoria formativa plenamente coherente con farmacognosia, química de plantas y farmacología experimental.
+  - El CVPy confirma doctorado en productos naturales organicos, con trayectoria coherente con farmacognosia, quimica de plantas y farmacologia experimental.
 - Produccion cientifica:
-  - La postulacion presenta produccion 2021-2026 en revistas indexadas como *Molecules*, *Journal of Ethnopharmacology*, *Vitae*, *Biomedical and Biopharmaceutical Research* y *Journal of Applied Pharmaceutical Science*, con varios trabajos como autora principal o correspondiente.
-  - La evidencia muestra continuidad suficiente de publicacion indexada para sostener la permanencia en `Nivel III`.
+  - La postulacion presenta produccion 2021-2026 en revistas indexadas como *Molecules*, *Journal of Ethnopharmacology*, *Vitae*, *Biomedical and Biopharmaceutical Research* y *Journal of Applied Pharmaceutical Science*, con trabajos como autora principal o correspondiente.
+  - La masa de produccion y de formacion de RRHH es compatible con un perfil senior; el punto critico para Nivel III no es la produccion sino el criterio de redes.
 - Otros:
-  - El expediente acredita un bloque muy fuerte de formacion de recursos humanos, actividad editorial, jurados de maestria y doctorado, proyectos en productos naturales y una insercion institucional consolidada en `FCQ-UNA`.
+  - El expediente acredita formacion de recursos humanos, actividad editorial, jurados de maestria y doctorado, proyectos y adscripcion en `FCQ-UNA`.
+  - En los anexos SPI del periodo **no se identifica evidencia documental de fundacion o participacion vigente en redes cientificas** nacionales o internacionales. Figuran colaboraciones, eventos y un antecedente de proyecto nominado «Red» (Alicante, ~2016-2017) fuera o al margen del periodo de permanencia Nivel III.
+  - La CCH (correo 21 ago 2026, hilo «Reunion de CTA») indico que, en el area de Salud, fundacion y/o participacion en redes es **condicion excluyente** para Nivel III.
 
 ## Resultado
 
 - Dictamen:
-  - Permanece
+  - Desciende
 - Categoria o grupo:
-  - Nivel III
+  - Nivel II
 
 ## Recomendaciones
 
-- Sostener la produccion indexada con liderazgo autoral visible y mantener la proyeccion editorial y en redes.
-- Reforzar explicitamente la creacion de capacidades institucionales orientadas a la investigacion dentro de `FCQ-UNA`.
+- Acreditar de manera expresa fundacion o participacion en redes cientificas nacionales o internacionales, con evidencia del periodo.
+- Sostener la produccion indexada con liderazgo autoral y la formacion de recursos humanos; reforzar capacidades institucionales en `FCQ-UNA`.
 
 ## Consideraciones para comite
 
-- La evidencia disponible al `19 de agosto de 2026` es favorable a la permanencia en `Nivel III`.
-- El caso destaca especialmente por la continuidad de lineas, la formacion de recursos humanos y la trayectoria senior en farmacognosia y farmacologia de productos naturales.
-- Conviene dejar como recomendacion principal el fortalecimiento adicional de capacidades institucionales y la revision administrativa del antecedente de cambio de area.
+- Ajuste del `29 de agosto de 2026` tras contraste con dictamen de Pablo Sotelo, relectura de RES-376 Nivel III y criterio CCH sobre redes excluyentes.
+- Se propone **descenso a Nivel II** por incumplimiento del criterio de redes en Nivel III, sin desconocer la solidez productiva y formativa del expediente.
+- Si la CTA adopta una definicion amplia de «red» (p. ej. sociedades o colaboraciones bilaterales) deberia dejarla fundada; en ausencia de esa definicion colegiada, prevalece la lectura excluyente ya confirmada por la CCH.
+- Persiste la utilidad de revisar administrativamente el antecedente de cambio de area.

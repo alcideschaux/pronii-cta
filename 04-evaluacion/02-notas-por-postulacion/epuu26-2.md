@@ -126,3 +126,9 @@
 ## Notas libres
 
 - Caso favorable a la permanencia en `Nivel I`, con un expediente actual mas maduro que el antecedente previo en proyectos, redes, docencia y tutorias.
+
+
+## Revision post-contraste CTA/CCH (`2026-08-29`)
+
+- Se sugiere **ascenso a Nivel II** (reclasificacion en permanencia): doctorado, produccion, liderazgo de grupo y formacion/evaluaciones cubren el checklist II.
+- Corrige la subaplicacion previa del umbral II. Alineacion con Clarisse.

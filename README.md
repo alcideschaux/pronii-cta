@@ -33,8 +33,9 @@ Para orientarse rapidamente en el repo, abrir en este orden:
 
 1. [04-evaluacion/README.md](04-evaluacion/README.md)
 2. [tracker-evaluacion.tsv](04-evaluacion/01-seguimiento/tracker-evaluacion.tsv)
-3. [indice-postulaciones.md](04-evaluacion/01-seguimiento/indice-postulaciones.md)
-4. [05-entregables/README.md](04-evaluacion/05-entregables/README.md)
+3. [agenda-reunion.md](04-evaluacion/06-contraste-cta/agenda-reunion.md) (contraste con dictamenes de la CTA)
+4. [indice-postulaciones.md](04-evaluacion/01-seguimiento/indice-postulaciones.md)
+5. [05-entregables/README.md](04-evaluacion/05-entregables/README.md)
 
 Si el objetivo es revisar una postulacion puntual, el flujo sugerido es:
 
@@ -60,7 +61,7 @@ Si el objetivo es revisar una postulacion puntual, el flujo sugerido es:
 
 - `04-evaluacion/`
   Es el workspace central del proceso evaluativo.
-  Ahi se encuentran el seguimiento operativo, las notas por caso, los borradores de dictamen, el registro de conflictos y la carpeta reservada para entregables finales.
+  Ahi se encuentran el seguimiento operativo, las notas por caso, los borradores de dictamen, el registro de conflictos, los entregables y el contraste con dictamenes de otros miembros de la CTA.
 
 - `05-anexos-spi/`
   Reune respaldos completos descargados desde SPI.
@@ -92,6 +93,10 @@ Sus subcomponentes son:
 
 - [05-entregables](04-evaluacion/05-entregables)
   Carpeta reservada para consolidaciones finales o material listo para elevar.
+
+- [06-contraste-cta](04-evaluacion/06-contraste-cta)
+  Contraste entre borradores Alcides y dictamenes Word de Ana, Clarisse, Cristina y Pablo.
+  Incluye matriz, fichas de discusion y agenda de reunion.
 
 ## Enlaces directos a los dictámenes
 

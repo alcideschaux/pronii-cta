@@ -4,11 +4,14 @@ Este directorio concentra el trabajo tecnico de revision de las postulaciones as
 
 Al `19 de agosto de 2026`, el lote de trabajo se encuentra armado, evaluado y documentado, con trazabilidad por caso entre expediente, antecedente previo, nota analitica, borrador de dictamen y `tracker`.
 
+Al `29 de agosto de 2026`, se incorpora el contraste con dictamenes Word de Ana, Clarisse, Cristina y Pablo (`06-contraste-cta/`): diagnostico de origen, consulta CCH borrador, y ajuste de dictamenes donde el desvio era de interpretacion propia (Lovera no permanece; Kennedy desciende II; Martinez/Maidana/Estigarribia ascienden II). Troche queda provisional por afinidad Metodologia (consulta CCH).
+
 ## Estado del workspace
 
 - `29` postulaciones cargadas y seguidas en `01-seguimiento/tracker-evaluacion.tsv`.
 - `29` notas por postulacion disponibles en `02-notas-por-postulacion/`.
 - `29` borradores de dictamen disponibles en `03-dictamenes-borrador/`.
+- contraste CTA en `06-contraste-cta/` (matriz, fichas, agenda).
 - estructura lista para consulta por otros miembros de la `CTA` o de la `CCH`.
 - revisor consignado en las notas: `Alcides Chaux`.
 - una observacion administrativa visible en `epuu26-8`: declaracion personal de conflicto de interes pendiente de formalizacion en tracker.
@@ -18,9 +21,10 @@ Al `19 de agosto de 2026`, el lote de trabajo se encuentra armado, evaluado y do
 Para revisar el conjunto del trabajo:
 
 1. `01-seguimiento/tracker-evaluacion.tsv`
-2. `01-seguimiento/indice-postulaciones.md`
-3. `01-seguimiento/panel-de-arranque.md`
-4. `05-entregables/README.md`
+2. `06-contraste-cta/agenda-reunion.md` (si el objetivo es cerrar discrepancias con el resto de la CTA)
+3. `01-seguimiento/indice-postulaciones.md`
+4. `01-seguimiento/panel-de-arranque.md`
+5. `05-entregables/README.md`
 
 Para revisar un caso individual:
 
@@ -48,6 +52,10 @@ Para revisar un caso individual:
 
 - `05-entregables/`
   Reserva el espacio para consolidaciones finales, resguardando separado el material de trabajo del material listo para elevar.
+
+- `06-contraste-cta/`
+  Contraste entre borradores Alcides y dictamenes de los otros miembros de la CTA.
+  Incluye matriz TSV, fichas de discusion, agenda de reunion y extractos de las proformas Word.
 
 ## Cobertura del lote
 
