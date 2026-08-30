@@ -2,25 +2,27 @@
 
 Contraste entre los borradores de Alcides Chaux (`03-dictamenes-borrador/`) y los dictámenes Word de Ana, Clarisse, Cristina y Pablo recibidos en `~/Downloads/OneDrive_CTA` (29 ago 2026).
 
-## Hallazgo central
+## Estado actual (post ajuste `2026-08-29` / cierre por correo)
 
-De **29** casos del tracker:
+Tras alinear dictámenes con RES-376 y CCH, el lote de **29** casos queda así en los borradores Alcides (verificados contra el tracker):
 
-| Tipo | N | Códigos |
+| Dictamen propuesto | N | Códigos |
 |---|---|---|
-| Coincide (`permanece`) | 16 | ver matriz |
-| Exclusión / no permanece / no categoriza | 8 | `epuu26-11`, `20`, `49`, `60`, `85`, `112`, `102`, `57` |
-| Ascenso (par → II; Alcides → permanece I) | 3 | `epuu26-2`, `52`, `75` |
-| Descenso (par III→II; Alcides → permanece III) | 1 | `eptu26-1` |
-| Sin archivo par | 1 | `epuu26-62` |
+| Permanece | 20 | `epuu26-8`, `3`, `38`, `89`, `105`, `59`, `97`, `71`, `113`, `93`, `18`, `58`, `47`, `96`, `11`, `20` (provisional), `57`, `62`; `epdu26-3`; `eptu26-3` |
+| No permanece | 5 | `epuu26-60`, `85`, `102`, `112`, `49` |
+| Asciende a II | 3 | `epuu26-2`, `52`, `75` |
+| Desciende a II | 1 | `eptu26-1` |
 
-Los **13** casos no coincidentes tienen ficha en `fichas-discusion/`.
+**Cuatro puntos abiertos** (cierre por correo CTA, no reunión): `epuu26-11` (afinidad), `epuu26-20` (consulta CCH), `epuu26-57` (conteo autoría Anexo-2), `epuu26-62` (falta Word Cristina). Ver `correo-cta-contraste-borrador.md`.
+
+La matriz y las fichas conservan el contraste *antes* del ajuste (útil para reconstruir el debate).
 
 ## Contenido
 
+- `correo-cta-contraste-borrador.md` — borrador del correo a la CTA (acuerdos + cuatro desacuerdos y cómo cerrarlos por hilo).
 - `matriz-contraste.tsv` — una fila por postulación (dictámenes, tipo de discrepancia, ejes, prioridades, rutas).
 - `fichas-discusion/` — media página por caso a discutir (punto de roce, pregunta CTA, acción).
-- `agenda-reunion.md` — orden sugerido para la reunión colegiada.
+- `agenda-reunion.md` — orden sugerido (referencia; el cierre actual es por correo).
 - `criterios-cch-correo.md` — interpretaciones CCH del hilo «Reunión de CTA» (19–26 ago 2026).
 - `criterios-res376-ciencias-medicas.md` — checklist RES-376 área Salud + lectura CCH.
 - `matriz-concordancia-cch.tsv` — contraste reglamento × CCH × par × Alcides (casos discrepantes).
@@ -63,8 +65,8 @@ Alias de códigos en planilla → expediente real:
 
 ## Cómo usar
 
-1. Abrir `agenda-reunion.md`.
-2. Para cada ítem, abrir la ficha y, si hace falta, el extracto par + el borrador Alcides.
+1. Abrir `correo-cta-contraste-borrador.md` (cierre por correo) o, si hace falta, `agenda-reunion.md`.
+2. Para cada desacuerdo abierto, abrir la ficha, el extracto par y el borrador Alcides en `../03-dictamenes-borrador/`.
 3. Registrar el dictamen colegiado en la planilla CTA (`Resultado CTA` / `Categoría/Grupo`) y, cuando cierre, en `05-entregables/`.
 
 ## Regla

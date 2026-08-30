@@ -33,9 +33,11 @@ Para orientarse rapidamente en el repo, abrir en este orden:
 
 1. [04-evaluacion/README.md](04-evaluacion/README.md)
 2. [tracker-evaluacion.tsv](04-evaluacion/01-seguimiento/tracker-evaluacion.tsv)
-3. [agenda-reunion.md](04-evaluacion/06-contraste-cta/agenda-reunion.md) (contraste con dictamenes de la CTA)
-4. [indice-postulaciones.md](04-evaluacion/01-seguimiento/indice-postulaciones.md)
-5. [05-entregables/README.md](04-evaluacion/05-entregables/README.md)
+3. [03-dictamenes-borrador](04-evaluacion/03-dictamenes-borrador) (29 borradores Alcides)
+4. [correo-cta-contraste-borrador.md](04-evaluacion/06-contraste-cta/correo-cta-contraste-borrador.md) (cierre CTA por correo)
+5. [06-contraste-cta](04-evaluacion/06-contraste-cta) (contraste con pares)
+6. [indice-postulaciones.md](04-evaluacion/01-seguimiento/indice-postulaciones.md)
+7. [05-entregables/README.md](04-evaluacion/05-entregables/README.md)
 
 Si el objetivo es revisar una postulacion puntual, el flujo sugerido es:
 
