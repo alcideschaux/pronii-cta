@@ -13,14 +13,15 @@ Tras alinear dictámenes con RES-376, CCH y el **consenso CTA sobre Metodología
 | Asciende a II | 3 | `epuu26-2`, `52`, `75` |
 | Desciende a II | 1 | `eptu26-1` |
 
-**Pendiente documental único para cerrar dictámenes:** Word de Ana de `epuu26-62` (Vázquez) en carpeta compartida + contraste con el borrador Alcides (permanece). Ver `correo-cta-respuesta-2026-08-31.md`.
+**Pendiente documental único para cerrar dictámenes:** Word de Ana de `epuu26-62` (Vázquez) en carpeta compartida + contraste con el borrador Alcides (permanece). Respuesta de Alcides **enviada** el `2026-08-31` — ver `correo-cta-respuesta-2026-08-31.md` y `cierre-sesion-2026-08-31.md`.
 
 La matriz y las fichas conservan el contraste *antes* del ajuste (útil para reconstruir el debate); las fichas de `11`, `20` y `57` registran la resolución del 31 ago.
 
 ## Contenido
 
 - `correo-cta-contraste-borrador.md` — borrador del correo a la CTA (acuerdos + cuatro desacuerdos y cómo cerrarlos por hilo).
-- `correo-cta-respuesta-2026-08-31.md` — respuesta de Alcides: acompaña Metodología; cierra 11/20/57; pendiente Word 62.
+- `correo-cta-respuesta-2026-08-31.md` — respuesta de Alcides: acompaña Metodología; cierra 11/20/57; pendiente Word 62. **Enviada** por Gmail el 31 ago.
+- `cierre-sesion-2026-08-31.md` — acta de cierre de sesión (hecho / pendiente).
 - `matriz-contraste.tsv` — una fila por postulación (dictámenes, tipo de discrepancia, ejes, prioridades, rutas).
 - `fichas-discusion/` — media página por caso a discutir (punto de roce, pregunta CTA, acción).
 - `agenda-reunion.md` — orden sugerido (referencia; el cierre actual es por correo).
