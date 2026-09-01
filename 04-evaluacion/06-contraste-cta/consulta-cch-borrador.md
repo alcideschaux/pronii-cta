@@ -1,5 +1,7 @@
 # Borrador de consulta a la CCH — interpretación de criterios (CTA Salud)
 
+> **Estado (`2026-08-31`): NO ENVIAR.** La CTA adoptó el criterio consensuado de que la maestría en Metodología de la Investigación **no es, por sí sola, afín al área de Salud** (con antecedentes previos). Los casos `EPUU26-11` y `EPUU26-20` se cerraron como **no permanece**. Este archivo se conserva solo como historial de la consulta que se había planteado.
+
 **De:** CTA Ciencias Médicas y de la Salud  
 **Para:** Equipo SISNI / CCH  
 **Asunto:** Consulta de interpretación — afinidad de maestría en Metodología (Nivel I) y dos precisiones opcionales  

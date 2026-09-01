@@ -2,24 +2,25 @@
 
 Contraste entre los borradores de Alcides Chaux (`03-dictamenes-borrador/`) y los dictámenes Word de Ana, Clarisse, Cristina y Pablo recibidos en `~/Downloads/OneDrive_CTA` (29 ago 2026).
 
-## Estado actual (post ajuste `2026-08-29` / cierre por correo)
+## Estado actual (post ajuste `2026-08-31` / cierre CTA)
 
-Tras alinear dictámenes con RES-376 y CCH, el lote de **29** casos queda así en los borradores Alcides (verificados contra el tracker):
+Tras alinear dictámenes con RES-376, CCH y el **consenso CTA sobre Metodología** (no afín al área por sí sola), el lote de **29** casos queda así en los borradores Alcides:
 
 | Dictamen propuesto | N | Códigos |
 |---|---|---|
-| Permanece | 20 | `epuu26-8`, `3`, `38`, `89`, `105`, `59`, `97`, `71`, `113`, `93`, `18`, `58`, `47`, `96`, `11`, `20` (provisional), `57`, `62`; `epdu26-3`; `eptu26-3` |
-| No permanece | 5 | `epuu26-60`, `85`, `102`, `112`, `49` |
+| Permanece | 18 | `epuu26-8`, `3`, `38`, `89`, `105`, `59`, `97`, `71`, `113`, `93`, `18`, `58`, `47`, `96`, `57`, `62`; `epdu26-3`; `eptu26-3` |
+| No permanece | 7 | `epuu26-60`, `85`, `102`, `112`, `49`, **`11`**, **`20`** |
 | Asciende a II | 3 | `epuu26-2`, `52`, `75` |
 | Desciende a II | 1 | `eptu26-1` |
 
-**Cuatro puntos abiertos** (cierre por correo CTA, no reunión): `epuu26-11` (afinidad), `epuu26-20` (consulta CCH), `epuu26-57` (conteo autoría Anexo-2), `epuu26-62` (falta Word Cristina). Ver `correo-cta-contraste-borrador.md`.
+**Pendiente documental único para cerrar dictámenes:** Word de Ana de `epuu26-62` (Vázquez) en carpeta compartida + contraste con el borrador Alcides (permanece). Ver `correo-cta-respuesta-2026-08-31.md`.
 
-La matriz y las fichas conservan el contraste *antes* del ajuste (útil para reconstruir el debate).
+La matriz y las fichas conservan el contraste *antes* del ajuste (útil para reconstruir el debate); las fichas de `11`, `20` y `57` registran la resolución del 31 ago.
 
 ## Contenido
 
 - `correo-cta-contraste-borrador.md` — borrador del correo a la CTA (acuerdos + cuatro desacuerdos y cómo cerrarlos por hilo).
+- `correo-cta-respuesta-2026-08-31.md` — respuesta de Alcides: acompaña Metodología; cierra 11/20/57; pendiente Word 62.
 - `matriz-contraste.tsv` — una fila por postulación (dictámenes, tipo de discrepancia, ejes, prioridades, rutas).
 - `fichas-discusion/` — media página por caso a discutir (punto de roce, pregunta CTA, acción).
 - `agenda-reunion.md` — orden sugerido (referencia; el cierre actual es por correo).
@@ -30,6 +31,7 @@ La matriz y las fichas conservan el contraste *antes* del ajuste (útil para rec
 - `discrepancias-reales-cta.md` — solo las discrepancias sustantivas a llevar a la CTA (filtro post CCH/RES-376).
 - `origen-discrepancias.md` — diagnóstico de origen (tu interpretación vs par vs ambigüedad CCH vs hechos vs subaplicación de umbral II).
 - `consulta-cch-borrador.md` — borrador de correo a SISNI/CCH (afinidad Metodología + opcionales redes/jubilación).
+- `conteo-autoria-epuu26-57.md` — conteo Anexo-2 de primer/correspondiente para Sánchez Martínez (`epuu26-57`): 1 primer autor → permanece.
 - `_extractos-pares/` — texto extraído de cada `.docx` (dictamen, fundamento, recomendaciones).
 - `_data.json` — volcado auxiliar usado para armar la matriz (no es entregable).
 
@@ -42,8 +44,9 @@ Tras el diagnóstico de orígenes:
 | `epuu26-60` | `permanece` → **no permanece** (I.2) |
 | `eptu26-1` | `permanece III` → **desciende a II** (redes) |
 | `epuu26-2`, `52`, `75` | `permanece I` → **asciende a II** |
-| `epuu26-11` | permanece (fundamentación reforzada) |
-| `epuu26-20` | provisional, pendiente CCH |
+| `epuu26-11` | permanece (fundamentación reforzada) → **no permanece** (`2026-08-31`, Metodología) |
+| `epuu26-20` | provisional → **no permanece** (`2026-08-31`; sin envío CCH) |
+| `epuu26-57` | permanece reforzado (`2026-08-31`, conteo Anexo-2: 1 primer autor) |
 | `epuu26-49` | **no permanece** (I.5 sin anexo TFG; institucional = contexto) |
 | `epuu26-85`, `102`, `112` | **no permanece** (I.5 sin archivos de tutoría en anexos SPI) |
 
